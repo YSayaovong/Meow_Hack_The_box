@@ -6,9 +6,7 @@ This repository contains my detailed write-up of the "Meow" machine from Hack Th
 
 ## Project Structure
 
-- `Meow.docx`: The original write-up documenting the enumeration, vulnerability identification, and exploitation processes used to solve the Meow machine.
-- `Meow.pdf`: A PDF version of the write-up, outlining the same steps and insights into penetration testing fundamentals.
-- `Meow_final_version.docx`: An improved version of the original write-up with expanded content, structured for better presentation and readability.
+- `Meow.docx`: The write-up documenting the enumeration, vulnerability identification, and exploitation processes used to solve the Meow machine.
 
 ## Key Takeaways
 
